@@ -1,3 +1,7 @@
+# Fractal tree
+![Image of Yaktocat](https://github.com/javisaacmv/Fractals/blob/master/Captura%20de%20Pantalla%202020-04-30%20a%20la(s)%2012.23.19.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
